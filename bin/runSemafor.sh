@@ -63,4 +63,4 @@ echo "********************************"
 echo
 echo
 
-rm -r "${TEMP_DIR}"
+#rm -r "${TEMP_DIR}"
